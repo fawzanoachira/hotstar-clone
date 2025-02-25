@@ -25,3 +25,11 @@ A simple Hotstar clone built using HTML, CSS, and JavaScript to mimic the UI and
 3. Open `index.html` in a web browser.
 
 ## Screenshots
+<p align="center">
+  <img src="screenshots/hotstar-clone-1.png" width="600">
+</p>
+
+<p align="center">
+  <img src="screenshots/hotstar-clone-2.png" width="450">  
+  <img src="screenshots/hotstar-clone-3.png" width="450">
+</p>
