@@ -30,6 +30,6 @@ A simple Hotstar clone built using HTML, CSS, and JavaScript to mimic the UI and
 </p>
 
 <p align="center">
-  <img src="screenshots/hotstar-clone-2.png" width="450">  
-  <img src="screenshots/hotstar-clone-3.png" width="450">
+  <img src="screenshots/hotstar-clone-2.png" width="400">  
+  <img src="screenshots/hotstar-clone-3.png" width="400">
 </p>
